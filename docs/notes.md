@@ -26,3 +26,4 @@ Notes and usage details for LlamaServerLauncherAvalonia.
 - clarify the setup steps
 - add a note about the defaults
 - link the usage section
+- fix a small wording issue
